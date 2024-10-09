@@ -7,11 +7,15 @@ tags:
   - teaching/length/30-40min
   - teaching/preparation/noprep
 ---
-## Length: 25-35 minutes
-## Required Materials
+# Activity Description
+A lesson to practice reading and explaining weather forecasts.
+### Length
+- 25-35 minutes
+### Required Materials
 - Chromebooks
-## Accompanying Textbook
+### Accompanying Textbook
 - New Horizons 2: Unit 3, P.56
+# Activity Summary
 
 | **Activity/<br>Timing** | **Objectives**                                 | Material/<br>Equipment | Step-by-step                                                                                                                                                                                                               | Interaction/<br>Seating |
 | ----------------------- | ---------------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
