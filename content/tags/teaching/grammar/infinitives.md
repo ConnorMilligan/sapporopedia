@@ -1,0 +1,1 @@
+Infinitive verbs are unconjugated forms of verbs, such as "to talk" or "to go".

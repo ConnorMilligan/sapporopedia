@@ -1,0 +1,1 @@
+The length an activity is expected to take.

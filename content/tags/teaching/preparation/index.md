@@ -1,0 +1,1 @@
+What preparation or materials are required to run an activity.

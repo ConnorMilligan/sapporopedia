@@ -1,0 +1,1 @@
+This activity requires little or no preparation
