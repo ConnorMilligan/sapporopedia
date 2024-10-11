@@ -1,0 +1,1 @@
+**Gerunds** describe verbs in action, such as "running" or "writing".

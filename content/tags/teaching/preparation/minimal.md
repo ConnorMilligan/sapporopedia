@@ -1,0 +1,1 @@
+This activity requires at least some preparation.
